@@ -1,5 +1,7 @@
 ### Hey there! I'm Italo! 😄
 
+##
+
 - 📚 I’m currently learning Vue JS
 - ⚡ Fun fact: When I was a kiddo, I dreamt to be a DJ! XD
 
