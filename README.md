@@ -2,7 +2,7 @@
 
 ##
 
-- 📚 I’m currently learning Vue JS
+- 📚 I’m currently learning Vue JS && JavaScript!
 - ⚡ Fun fact: When I was a kiddo, I dreamt to be a DJ! XD
 
 <div align="left">
