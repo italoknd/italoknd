@@ -2,7 +2,7 @@
 
 ##
 
-- 📚 I’m currently learning Vue JS && React JS && JavaScript!
+- 📚 Always trying to be better in this wonderful world of tecnology! :man_technologist:
 - ⚡ Fun fact: When I was a kiddo, I dreamt to be a DJ! XD
 
 <div align="left">
