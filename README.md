@@ -2,7 +2,7 @@
 
 ##
 
-- 📚 Always trying to be better in this wonderful world of tecnology! :man_technologist:
+- 📚 Always trying to be better in this wonderful world of technology! :man_technologist:
 - ⚡ Fun fact: When I was a kiddo, I dreamt to be a DJ! XD
 
 <div align="left">
